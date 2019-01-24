@@ -12,7 +12,7 @@ package ca.sheridancollege.week1.softwarefundamental;
 public class Student1 {
 
     private String name;
-
+    private int studentID;
     /**
      * @return the name
      */
